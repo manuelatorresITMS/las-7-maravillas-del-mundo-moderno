@@ -1,0 +1,97 @@
+
+ul{
+	list-style-type: none;
+	background-color: #91321d;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+	
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 120px;
+	padding: 10px;
+	color: #fff;
+}
+
+ul li a:hover{
+	background-color: #f5e9b8;
+	display: block;
+
+}
+.active{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.chichenActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.coliseoActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.cristoActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.machuActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.petraActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.tajActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+.homeActive{
+	font-weight: bold;
+	border-bottom: solid 5px #fae17d;
+}
+body{
+	background-image: url(premium_photo-1664304492320-8359efcaad38.avif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+h1{
+	color: #fae17d;
+	text text-a93blign: bottom;
+	font-size: 50px;
+}
+
+body{
+	font
+}
+p{
+	font-size: 30px;
+  font-family: "Metamorphous", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #fae17d;
+}
+.container{
+	position: relative;
+}
+.overlay{
+	position: absolute;
+	left: 40px;
+	bottom: 60px;
+	font-size: 15pt;
+	text-align: center;
+	width: 350px;
+  	height: 320px;
+ 	background-color: #fae17d;
+  	border-radius: 50%;
+  	display: flex;
+  	justify-content: center; /* Centers content horizontally */
+  	align-items: center;    /* Centers content vertically */
+  	padding-top: 20px;
+}
